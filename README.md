@@ -4,13 +4,13 @@
 
 [x]  [External Link](#external-link)
 
-[] [Internal Link](#internal-link)
+[x] [Internal Link](#internal-link)
 
-[] [Images](#images)
+[x] [Images](#images)
 
-[] [Emojis](#emojis)
+[x] [Emojis](#emojis)
 
-[] [Tables](#tables)
+[x] [Tables](#tables)
 
 ## external link
 [github docu](https://help.github.com/en)
