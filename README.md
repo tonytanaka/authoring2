@@ -3,7 +3,7 @@
 ##  Github Flavoured Markdown
 
 [x]  [External Link](#external-link)
-[] Internal Link(#internal-link)
+[] [Internal Link](#internal-link)
 ### [] Images
 ### [] Emojis
 ### [] Tables
