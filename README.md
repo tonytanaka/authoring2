@@ -16,3 +16,8 @@
 
 :grinning:
 
+|Name    | class   |
+| ------- | ------ |
+| John Doe | john@gmail.com|
+| Jane Doe | jane@gmail.com|
+
